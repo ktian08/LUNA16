@@ -1,2 +1,2 @@
 # LUNA16
-Lung Module Segmentation 
+Lung Cancer Nodule Segmentation 
